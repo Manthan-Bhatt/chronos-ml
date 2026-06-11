@@ -9,6 +9,7 @@ def get_conn():
         user=st.secrets["postgres"],
         password=st.secrets["Manthan_Bhatt"],
         port=st.secrets["5432"],
+        sslmode="require",
         cursor_factory=psycopg2.extras.RealDictCursor,
         options="-c search_path=chronos_ml"
     )
