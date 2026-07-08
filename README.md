@@ -1,7 +1,6 @@
 # Chronos ML
 ### AI Model Versioning and Experiment Tracking System
-**Live Demo:** https://chronos-ml-fhzc36rejpjgmdcdjfwzlw.streamlit.app  
-**GitHub:** https://github.com/Manthan-Bhatt/chronos-ml
+**Live Demo:** https://chronos-ml-fhzc36rejpjgmdcdjfwzlw.streamlit.app 
 
 ---
 
